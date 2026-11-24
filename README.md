@@ -1,38 +1,29 @@
-# Merch Trend Hunter — Starter v0.1
+# Merch Trend Hunter v0.2
 
-Bilingual (English/Arabic) Streamlit starter dashboard for researching US print-on-demand opportunities.
+Bilingual Streamlit dashboard and daily GitHub Actions collector.
 
-## Important
-The current rows are illustrative demo data. They are NOT live Google Trends data, Amazon search results, verified BSR, or actual sales.
+## Data source
+Google Trends US trending-searches RSS feed: `https://trends.google.com/trending/rss?geo=US`
 
-## Run locally
-```bash
-python -m venv .venv
-# Windows PowerShell:
-.venv\\Scripts\\Activate.ps1
-pip install -r requirements.txt
-streamlit run streamlit_app.py
-```
+## What this version does
+- Collects currently listed US trending searches.
+- Saves title, feed traffic label, publication date, related news URL, and collection timestamp.
+- Displays the saved data in Streamlit.
+- Runs daily at 13:00 UTC; can also be run manually from GitHub Actions.
 
-## Deploy
-1. Create a GitHub repository named `merch-trend-hunter`.
-2. Upload the files from this project.
-3. Open https://share.streamlit.io and sign in with GitHub.
-4. Create app; select your repository, branch `main`, and file `streamlit_app.py`.
-5. Deploy.
+## Limitations
+Google Trends interest is not absolute search volume, product demand, or sales. This RSS feed is a current trending list, not a historical time series. This version does not provide verified growth, Amazon BSR, competition counts, or sales. Google's official Trends API remains limited alpha access.
 
-## Planned architecture
-- Web UI: Streamlit Community Cloud
-- Source control: GitHub
-- Database: Supabase/Postgres (after account and schema setup)
-- Scheduled collector: GitHub Actions or a separate scheduled worker
-- Data sources: official/authorized APIs and public sources with permitted access
-- Amazon research: permitted methods only; no bypassing bot controls or restricted access.
+## Install/update files
+Upload these files to the existing repository, replacing same-named files:
+- `streamlit_app.py`
+- `collect_trends.py`
+- `.github/workflows/daily-trends.yml`
+- `data/trends.json`
+- `requirements.txt`
+- `README.md`
+- `.streamlit/config.toml`
 
-## Next milestones
-1. Deploy this starter.
-2. Create a persistent database.
-3. Add a collector for one trend source and store timestamped observations.
-4. Add Amazon competition observations.
-5. Add risk screening for trademarks/copyright and platform policies.
-6. Add alerting and opportunity history.
+Then open GitHub Actions, enable workflows if prompted, select `Daily US Google Trends Collection`, and click `Run workflow` for the first test. After a successful run, `data/trends.json` will contain collected results and the Streamlit app will redeploy after the commit.
+
+The schedule is 13:00 UTC (08:00 Eastern Standard Time / 09:00 Eastern Daylight Time).
