@@ -1,1 +1,68 @@
-
+{
+  "status": "ok",
+  "market": "US",
+  "source": "https://trends.google.com/trending/rss?geo=US",
+  "collected_at": "2026-11-24 10:03 UTC",
+  "items": [
+    {
+      "title": "小豆",
+      "traffic_label": "100+",
+      "published": "Tue, 24 Nov 2026 01:50:00 -0800",
+      "news_url": ""
+    },
+    {
+      "title": "mirror",
+      "traffic_label": "100+",
+      "published": "Tue, 24 Nov 2026 01:50:00 -0800",
+      "news_url": ""
+    },
+    {
+      "title": "is fortnite down right now",
+      "traffic_label": "100+",
+      "published": "Tue, 24 Nov 2026 01:40:00 -0800",
+      "news_url": ""
+    },
+    {
+      "title": "horse",
+      "traffic_label": "100+",
+      "published": "Tue, 24 Nov 2026 01:10:00 -0800",
+      "news_url": ""
+    },
+    {
+      "title": "travel",
+      "traffic_label": "200+",
+      "published": "Tue, 24 Nov 2026 01:10:00 -0800",
+      "news_url": ""
+    },
+    {
+      "title": "ticket",
+      "traffic_label": "100+",
+      "published": "Tue, 24 Nov 2026 01:10:00 -0800",
+      "news_url": ""
+    },
+    {
+      "title": "dinner",
+      "traffic_label": "100+",
+      "published": "Tue, 24 Nov 2026 01:00:00 -0800",
+      "news_url": ""
+    },
+    {
+      "title": "soccer",
+      "traffic_label": "100+",
+      "published": "Tue, 24 Nov 2026 01:00:00 -0800",
+      "news_url": ""
+    },
+    {
+      "title": "sun",
+      "traffic_label": "100+",
+      "published": "Tue, 24 Nov 2026 01:00:00 -0800",
+      "news_url": ""
+    },
+    {
+      "title": "office",
+      "traffic_label": "1000+",
+      "published": "Tue, 24 Nov 2026 01:00:00 -0800",
+      "news_url": ""
+    }
+  ]
+}
