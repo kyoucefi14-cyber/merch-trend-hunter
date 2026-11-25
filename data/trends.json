@@ -2,66 +2,66 @@
   "status": "ok",
   "market": "US",
   "source": "https://trends.google.com/trending/rss?geo=US",
-  "collected_at": "2026-11-24 14:16 UTC",
+  "collected_at": "2026-11-25 14:16 UTC",
   "items": [
     {
-      "title": "the walking dead",
+      "title": "is the stock market open today",
       "traffic_label": "500+",
-      "published": "Tue, 24 Nov 2026 06:00:00 -0800",
+      "published": "Wed, 25 Nov 2026 06:00:00 -0800",
       "news_url": ""
     },
     {
-      "title": "federal aviation administration",
+      "title": "5 cent hershey bar",
+      "traffic_label": "200+",
+      "published": "Wed, 25 Nov 2026 06:00:00 -0800",
+      "news_url": ""
+    },
+    {
+      "title": "keltie knight",
+      "traffic_label": "200+",
+      "published": "Wed, 25 Nov 2026 05:50:00 -0800",
+      "news_url": ""
+    },
+    {
+      "title": "gdp",
+      "traffic_label": "200+",
+      "published": "Wed, 25 Nov 2026 05:50:00 -0800",
+      "news_url": ""
+    },
+    {
+      "title": "kids can",
+      "traffic_label": "1000+",
+      "published": "Wed, 25 Nov 2026 05:40:00 -0800",
+      "news_url": ""
+    },
+    {
+      "title": "wizards of the coast lawsuit printmtg",
+      "traffic_label": "200+",
+      "published": "Wed, 25 Nov 2026 05:40:00 -0800",
+      "news_url": ""
+    },
+    {
+      "title": "pce report today",
+      "traffic_label": "200+",
+      "published": "Wed, 25 Nov 2026 05:30:00 -0800",
+      "news_url": ""
+    },
+    {
+      "title": "pce data",
+      "traffic_label": "200+",
+      "published": "Wed, 25 Nov 2026 05:30:00 -0800",
+      "news_url": ""
+    },
+    {
+      "title": "football today",
       "traffic_label": "5000+",
-      "published": "Tue, 24 Nov 2026 06:00:00 -0800",
+      "published": "Wed, 25 Nov 2026 05:30:00 -0800",
       "news_url": ""
     },
     {
-      "title": "tariffs",
-      "traffic_label": "200+",
-      "published": "Tue, 24 Nov 2026 05:50:00 -0800",
-      "news_url": ""
-    },
-    {
-      "title": "delfina guzmán",
-      "traffic_label": "200+",
-      "published": "Tue, 24 Nov 2026 05:40:00 -0800",
-      "news_url": ""
-    },
-    {
-      "title": "turkey",
-      "traffic_label": "10000+",
-      "published": "Tue, 24 Nov 2026 05:30:00 -0800",
-      "news_url": ""
-    },
-    {
-      "title": "ryan mccombs",
+      "title": "nfl game today",
       "traffic_label": "500+",
-      "published": "Tue, 24 Nov 2026 05:30:00 -0800",
-      "news_url": ""
-    },
-    {
-      "title": "3.5 billion records exposed database leak",
-      "traffic_label": "500+",
-      "published": "Tue, 24 Nov 2026 05:30:00 -0800",
-      "news_url": ""
-    },
-    {
-      "title": "ice arrests seattle airport",
-      "traffic_label": "500+",
-      "published": "Tue, 24 Nov 2026 05:30:00 -0800",
-      "news_url": ""
-    },
-    {
-      "title": "white house funding anomalies request congress",
-      "traffic_label": "200+",
-      "published": "Tue, 24 Nov 2026 05:30:00 -0800",
-      "news_url": ""
-    },
-    {
-      "title": "wordle — the new york times",
-      "traffic_label": "200+",
-      "published": "Tue, 24 Nov 2026 05:30:00 -0800",
+      "published": "Wed, 25 Nov 2026 05:30:00 -0800",
       "news_url": ""
     }
   ]
