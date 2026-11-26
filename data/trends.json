@@ -2,66 +2,66 @@
   "status": "ok",
   "market": "US",
   "source": "https://trends.google.com/trending/rss?geo=US",
-  "collected_at": "2026-11-25 14:16 UTC",
+  "collected_at": "2026-11-26 14:14 UTC",
   "items": [
     {
-      "title": "is the stock market open today",
-      "traffic_label": "500+",
-      "published": "Wed, 25 Nov 2026 06:00:00 -0800",
-      "news_url": ""
-    },
-    {
-      "title": "5 cent hershey bar",
-      "traffic_label": "200+",
-      "published": "Wed, 25 Nov 2026 06:00:00 -0800",
-      "news_url": ""
-    },
-    {
-      "title": "keltie knight",
-      "traffic_label": "200+",
-      "published": "Wed, 25 Nov 2026 05:50:00 -0800",
-      "news_url": ""
-    },
-    {
-      "title": "gdp",
-      "traffic_label": "200+",
-      "published": "Wed, 25 Nov 2026 05:50:00 -0800",
-      "news_url": ""
-    },
-    {
-      "title": "kids can",
+      "title": "college football today",
       "traffic_label": "1000+",
-      "published": "Wed, 25 Nov 2026 05:40:00 -0800",
+      "published": "Thu, 26 Nov 2026 06:00:00 -0800",
       "news_url": ""
     },
     {
-      "title": "wizards of the coast lawsuit printmtg",
-      "traffic_label": "200+",
-      "published": "Wed, 25 Nov 2026 05:40:00 -0800",
-      "news_url": ""
-    },
-    {
-      "title": "pce report today",
-      "traffic_label": "200+",
-      "published": "Wed, 25 Nov 2026 05:30:00 -0800",
-      "news_url": ""
-    },
-    {
-      "title": "pce data",
-      "traffic_label": "200+",
-      "published": "Wed, 25 Nov 2026 05:30:00 -0800",
-      "news_url": ""
-    },
-    {
-      "title": "football today",
-      "traffic_label": "5000+",
-      "published": "Wed, 25 Nov 2026 05:30:00 -0800",
-      "news_url": ""
-    },
-    {
-      "title": "nfl game today",
+      "title": "wdiv",
       "traffic_label": "500+",
-      "published": "Wed, 25 Nov 2026 05:30:00 -0800",
+      "published": "Thu, 26 Nov 2026 06:00:00 -0800",
+      "news_url": ""
+    },
+    {
+      "title": "click on detroit.com",
+      "traffic_label": "200+",
+      "published": "Thu, 26 Nov 2026 06:00:00 -0800",
+      "news_url": ""
+    },
+    {
+      "title": "george washington thanksgiving proclamation",
+      "traffic_label": "200+",
+      "published": "Thu, 26 Nov 2026 06:00:00 -0800",
+      "news_url": ""
+    },
+    {
+      "title": "mortgage rates today",
+      "traffic_label": "2000+",
+      "published": "Thu, 26 Nov 2026 05:50:00 -0800",
+      "news_url": ""
+    },
+    {
+      "title": "good morning america",
+      "traffic_label": "500+",
+      "published": "Thu, 26 Nov 2026 05:50:00 -0800",
+      "news_url": ""
+    },
+    {
+      "title": "lululemon black friday",
+      "traffic_label": "500+",
+      "published": "Thu, 26 Nov 2026 05:50:00 -0800",
+      "news_url": ""
+    },
+    {
+      "title": "rockettes",
+      "traffic_label": "200+",
+      "published": "Thu, 26 Nov 2026 05:50:00 -0800",
+      "news_url": ""
+    },
+    {
+      "title": "when did savannah guthrie's mom disappear",
+      "traffic_label": "1000+",
+      "published": "Thu, 26 Nov 2026 05:40:00 -0800",
+      "news_url": ""
+    },
+    {
+      "title": "the tonight show starring jimmy fallon justin timberlake",
+      "traffic_label": "500+",
+      "published": "Thu, 26 Nov 2026 05:40:00 -0800",
       "news_url": ""
     }
   ]
