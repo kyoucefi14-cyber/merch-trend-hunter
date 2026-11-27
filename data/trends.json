@@ -2,66 +2,66 @@
   "status": "ok",
   "market": "US",
   "source": "https://trends.google.com/trending/rss?geo=US",
-  "collected_at": "2026-11-26 14:14 UTC",
+  "collected_at": "2026-11-27 14:16 UTC",
   "items": [
     {
-      "title": "college football today",
+      "title": "pga tour",
+      "traffic_label": "5000+",
+      "published": "Fri, 27 Nov 2026 05:40:00 -0800",
+      "news_url": ""
+    },
+    {
+      "title": "ron harper",
       "traffic_label": "1000+",
-      "published": "Thu, 26 Nov 2026 06:00:00 -0800",
+      "published": "Fri, 27 Nov 2026 05:40:00 -0800",
       "news_url": ""
     },
     {
-      "title": "wdiv",
+      "title": "iowa vs nebraska",
       "traffic_label": "500+",
-      "published": "Thu, 26 Nov 2026 06:00:00 -0800",
+      "published": "Fri, 27 Nov 2026 05:40:00 -0800",
       "news_url": ""
     },
     {
-      "title": "click on detroit.com",
+      "title": "green bay packers statement martha ford",
+      "traffic_label": "10000+",
+      "published": "Fri, 27 Nov 2026 05:40:00 -0800",
+      "news_url": ""
+    },
+    {
+      "title": "cardi b",
       "traffic_label": "200+",
-      "published": "Thu, 26 Nov 2026 06:00:00 -0800",
+      "published": "Fri, 27 Nov 2026 05:40:00 -0800",
       "news_url": ""
     },
     {
-      "title": "george washington thanksgiving proclamation",
-      "traffic_label": "200+",
-      "published": "Thu, 26 Nov 2026 06:00:00 -0800",
-      "news_url": ""
-    },
-    {
-      "title": "mortgage rates today",
+      "title": "gma deals and steals",
       "traffic_label": "2000+",
-      "published": "Thu, 26 Nov 2026 05:50:00 -0800",
+      "published": "Fri, 27 Nov 2026 05:30:00 -0800",
       "news_url": ""
     },
     {
-      "title": "good morning america",
+      "title": "ncaa football today",
       "traffic_label": "500+",
-      "published": "Thu, 26 Nov 2026 05:50:00 -0800",
+      "published": "Fri, 27 Nov 2026 05:30:00 -0800",
       "news_url": ""
     },
     {
-      "title": "lululemon black friday",
-      "traffic_label": "500+",
-      "published": "Thu, 26 Nov 2026 05:50:00 -0800",
-      "news_url": ""
-    },
-    {
-      "title": "rockettes",
+      "title": "dolar hoje",
       "traffic_label": "200+",
-      "published": "Thu, 26 Nov 2026 05:50:00 -0800",
+      "published": "Fri, 27 Nov 2026 05:30:00 -0800",
       "news_url": ""
     },
     {
-      "title": "when did savannah guthrie's mom disappear",
-      "traffic_label": "1000+",
-      "published": "Thu, 26 Nov 2026 05:40:00 -0800",
+      "title": "the pitt season 3",
+      "traffic_label": "200+",
+      "published": "Fri, 27 Nov 2026 05:30:00 -0800",
       "news_url": ""
     },
     {
-      "title": "the tonight show starring jimmy fallon justin timberlake",
-      "traffic_label": "500+",
-      "published": "Thu, 26 Nov 2026 05:40:00 -0800",
+      "title": "ai bubble",
+      "traffic_label": "200+",
+      "published": "Fri, 27 Nov 2026 05:20:00 -0800",
       "news_url": ""
     }
   ]
