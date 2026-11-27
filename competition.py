@@ -127,3 +127,22 @@ if __name__ == "__main__":
 
     for key, value in result.items():
         print(f"{key}: {value}")
+
+def filter_low_result_keywords(keywords):
+    """
+    Keep only keywords with Amazon result counts
+    from 0 to 99.
+    Missing or invalid counts are excluded.
+    """
+    filtered = []
+
+    for item in keywords:
+        try:
+            count = int(item.get("result_count"))
+        except (TypeError, ValueError):
+            continue
+
+        if 0 <= count <= 99:
+            filtered.append(item)
+
+    return filtered
