@@ -2,66 +2,66 @@
   "status": "ok",
   "market": "US",
   "source": "https://trends.google.com/trending/rss?geo=US",
-  "collected_at": "2026-11-27 14:16 UTC",
+  "collected_at": "2026-11-28 13:57 UTC",
   "items": [
     {
-      "title": "pga tour",
-      "traffic_label": "5000+",
-      "published": "Fri, 27 Nov 2026 05:40:00 -0800",
-      "news_url": ""
-    },
-    {
-      "title": "ron harper",
+      "title": "where is college gameday",
       "traffic_label": "1000+",
-      "published": "Fri, 27 Nov 2026 05:40:00 -0800",
+      "published": "Sat, 28 Nov 2026 05:40:00 -0800",
       "news_url": ""
     },
     {
-      "title": "iowa vs nebraska",
-      "traffic_label": "500+",
-      "published": "Fri, 27 Nov 2026 05:40:00 -0800",
-      "news_url": ""
-    },
-    {
-      "title": "green bay packers statement martha ford",
-      "traffic_label": "10000+",
-      "published": "Fri, 27 Nov 2026 05:40:00 -0800",
-      "news_url": ""
-    },
-    {
-      "title": "cardi b",
+      "title": "frosinone vs parma",
       "traffic_label": "200+",
-      "published": "Fri, 27 Nov 2026 05:40:00 -0800",
+      "published": "Sat, 28 Nov 2026 05:40:00 -0800",
+      "news_url": ""
+    },
+    {
+      "title": "hamburg vs bayern",
+      "traffic_label": "200+",
+      "published": "Sat, 28 Nov 2026 05:40:00 -0800",
+      "news_url": ""
+    },
+    {
+      "title": "savannah guthrie",
+      "traffic_label": "2000+",
+      "published": "Sat, 28 Nov 2026 05:30:00 -0800",
+      "news_url": ""
+    },
+    {
+      "title": "savannah guthrie mom",
+      "traffic_label": "1000+",
+      "published": "Sat, 28 Nov 2026 05:30:00 -0800",
+      "news_url": ""
+    },
+    {
+      "title": "al roker",
+      "traffic_label": "1000+",
+      "published": "Sat, 28 Nov 2026 05:20:00 -0800",
+      "news_url": ""
+    },
+    {
+      "title": "local election results",
+      "traffic_label": "2000+",
+      "published": "Sat, 28 Nov 2026 05:20:00 -0800",
       "news_url": ""
     },
     {
       "title": "gma deals and steals",
-      "traffic_label": "2000+",
-      "published": "Fri, 27 Nov 2026 05:30:00 -0800",
-      "news_url": ""
-    },
-    {
-      "title": "ncaa football today",
       "traffic_label": "500+",
-      "published": "Fri, 27 Nov 2026 05:30:00 -0800",
+      "published": "Sat, 28 Nov 2026 05:20:00 -0800",
       "news_url": ""
     },
     {
-      "title": "dolar hoje",
+      "title": "wales vs japan",
       "traffic_label": "200+",
-      "published": "Fri, 27 Nov 2026 05:30:00 -0800",
+      "published": "Sat, 28 Nov 2026 05:20:00 -0800",
       "news_url": ""
     },
     {
-      "title": "the pitt season 3",
+      "title": "today show",
       "traffic_label": "200+",
-      "published": "Fri, 27 Nov 2026 05:30:00 -0800",
-      "news_url": ""
-    },
-    {
-      "title": "ai bubble",
-      "traffic_label": "200+",
-      "published": "Fri, 27 Nov 2026 05:20:00 -0800",
+      "published": "Sat, 28 Nov 2026 05:20:00 -0800",
       "news_url": ""
     }
   ]
